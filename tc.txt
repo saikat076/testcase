@@ -1,0 +1,5 @@
+go to https://facebook.com,
+enter email as "abc@gmail.com",
+enter password as "abc@123",
+click on login,
+wait for 5 seconds
